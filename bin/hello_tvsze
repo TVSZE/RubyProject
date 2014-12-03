@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hello_tvsze'
+puts Hello_tvsze.hi(ARGV[0])
